@@ -7,7 +7,7 @@ I'm Huandrey Pontes, an undergraduate student in Computer Science at Universidad
 
 Currently, my main development stack is **Python**, **Django** and **flask** arrangement, but I'm also familiar with **JavaScript**, **VueJS**, and starting with **ReactJS**.
 
-## <img align='center' src="https://img.icons8.com/cute-clipart/64/000000/rocket.png"/> Technologies
+## :rocket: Technologies
 <p>
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
 <img src="https://img.icons8.com/color/48/000000/django.png"/>
