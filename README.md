@@ -22,11 +22,11 @@ Currently, my main development stack is **Python**, **Django** and **flask** arr
 <p align="center">
 <a href="https://codepen.io/huandrey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="huandrey" height="20" width="20" /></a>
 <a href="https://twitter.com/huapss" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="huandrey" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/huandrey-pontes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="huandrey" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/huandrey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="huandrey" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/huandreypontes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="huandrey" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/story/huandrey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="huandrey" height="20" width="20" /></a>
 <a href="https://codesandbox.com/huandrey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="huandrey" height="20" width="20" /></a>
 <a href="https://fb.com/huandrey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="huandrey" height="20" width="20" /></a>
-<a href="https://instagram.com/huandrey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="huandrey" height="20" width="20" /></a>
+<a href="https://instagram.com/huandreyy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="huandrey" height="20" width="20" /></a>
 <img href="youtube.com/"align='center' src="https://img.icons8.com/ios-glyphs/30/000000/youtube.png"/>
 </p>
 
