@@ -5,7 +5,7 @@
 
 I'm Huandrey Pontes, an undergraduate student in Computer Science at Universidade Federal de Campina Grande (UFCG). I'am passionate about **Web Development** (backend), games and curious about **Data Science**.
 
-Currently, my main development stack is **Python**, **Django** and **flask** arrangement, but I'm also familiar with **JavaScript**, **VueJS**, and starting with **ReactJS**.
+Currently, my main development stack is **JavaScript** and **NodeJs**  arrangement, but I'm also familiar with **Python** and **flask**, and starting with **ReactJS**.
 
 ## :rocket: Skills
 <p>
