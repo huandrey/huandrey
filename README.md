@@ -31,8 +31,6 @@ I really like know and learn new things, not only in the tecnlogy area as also e
 
 Obs: I think that unnecessary to put things like "i know html or css, because is implicity..." so... whatever
 
-Most my job with Dart is private, so you probably don't will see anything relative to that here :/
-
 So, if you wanna contact for some reason, below are my email for that:
 
 ## Contacts:
