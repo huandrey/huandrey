@@ -3,7 +3,7 @@ I really like know and learn new things, not only in the tecnlogy area as also e
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=huandrey&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-seven-eta-56.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
+<img width=40% align="center" src="https://github-readme-stats-seven-eta-56.vercel.app/api/top-langs/?username=huandrey&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
