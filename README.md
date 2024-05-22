@@ -11,7 +11,7 @@ I really like know and learn new things, not only in the tecnlogy area as also e
 
 ## My Skills
 
-### Languages and Frameworks that I already work for
+### Languages and Frameworks that I work or already work for
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
