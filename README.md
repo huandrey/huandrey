@@ -1,5 +1,5 @@
-<p align="center">I'm frontend developer since 2021, I started my career working with React and React native. Now, I'm working with Flutter to create applications for the Mob4Pay Company. 
-I really like know and learn new things, not only in the technology area as also everthing that i wake my interest.</p>&nbsp;
+<p align="center">I've been a frontend developer since 2021, I started my career working with React and React native. Now, I'm learning and working with Flutter to create my applications. 
+I really enjoy discovering and learning new things, not only in the technology area but also in everything that sparks my interest in the world of art and history..</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=huandrey&theme=radical&mode=weekly" />
