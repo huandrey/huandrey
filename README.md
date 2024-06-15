@@ -1,4 +1,4 @@
-<p align="center">I'm frontend developer since 2021, I started my career working with React and React native. Now, I'm working with Flutter to create applications at the Mob4Pay Company. 
+<p align="center">I'm frontend developer since 2021, I started my career working with React and React native. Now, I'm working with Flutter to create applications for the Mob4Pay Company. 
 I really like know and learn new things, not only in the technology area as also everthing that i wake my interest.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
