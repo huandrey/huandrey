@@ -1,7 +1,7 @@
 <h5 align="center">I've been a frontend developer since 2021, I started my career working with React and React native.</h5>
 
-<h5 align="center">Now, I'm learning and working with Flutter to create my applications.</h5>
- 
+<h5 align="center">Now, I'm learning and working with Go and Java to understand more about concurrency programming.</h5>
+
 <h5 align="center">I really enjoy discovering and learning new things, not only in the technology area but also in everything that sparks my interest in the world of art and history..</h5>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
@@ -20,6 +20,10 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ff9103?style=for-the-badge&logo=Firebase&logoColor=white)
+
+## Learning
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 ## Seconday Stack on Frontend
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
