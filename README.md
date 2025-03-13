@@ -1,4 +1,4 @@
-<h5 align="center">I've been a frontend developer since 2021, I started my career working with React and React native.</h5>
+<h5 align="center">I've been a frontend developer since 2019, I started my career working with React and React native.</h5>
 
 <h5 align="center">Now, I'm learning and working with Go and Java to understand more about concurrency programming.</h5>
 
